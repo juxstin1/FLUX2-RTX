@@ -1,0 +1,13 @@
+# Flux2 Klein - Batch Prompts
+# One prompt per line. Lines starting with # are ignored.
+# Edit this file to customize your batch generation!
+
+a cyberpunk samurai standing in neon-lit rain on a Tokyo street at night, reflections on wet pavement, volumetric fog, cinematic lighting, hyperrealistic, 8k
+
+an ancient library floating in the clouds, massive stone columns covered in ivy, golden hour sunlight streaming through grand arched windows, dust particles in light beams, photorealistic
+
+a bioluminescent alien jellyfish creature in a deep underwater cave, ethereal cyan and magenta glow, caustic light patterns, crystal formations, national geographic photography style
+
+a massive steampunk airship with brass fixtures and copper pipes docking at a Victorian floating sky city at golden sunset, dramatic clouds, god rays, matte painting quality, epic scale
+
+a majestic nine-tailed kitsune fox spirit with flowing ethereal glowing tails in an enchanted cherry blossom forest, magical particles, soft pink lighting, fantasy art, masterpiece quality

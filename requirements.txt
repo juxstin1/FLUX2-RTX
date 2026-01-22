@@ -1,0 +1,19 @@
+# Flux2 Klein Local - Requirements
+# PyTorch is installed separately with CUDA support via install.bat
+
+# Core dependencies
+accelerate>=1.0.0
+transformers>=4.40.0
+safetensors>=0.4.0
+huggingface-hub>=0.20.0
+
+# Image processing
+Pillow>=10.0.0
+numpy>=1.24.0
+
+# Upscaler
+spandrel>=0.4.0
+
+# Utilities
+tqdm>=4.65.0
+einops>=0.7.0

@@ -1,0 +1,64 @@
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# Output images
+output/
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Model files (downloaded automatically)
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+models/
+
+# Hugging Face cache (don't upload models!)
+.cache/
+huggingface/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temp files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution
+dist/
+build/
+*.egg-info/
