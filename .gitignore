@@ -16,9 +16,11 @@ __pycache__/
 output/
 outputs/
 *.png
-*.jpg
 *.jpeg
 *.webp
+
+# Allow sample images
+!samples/*.jpg
 
 # Model files (downloaded automatically)
 *.safetensors
