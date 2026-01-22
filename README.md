@@ -10,9 +10,17 @@ Generate stunning AI images in seconds, upscale to 4096x4096 for print-quality o
 
 ## Sample Outputs
 
-| Cyberpunk Samurai | Floating Library | Bioluminescent Jellyfish |
-|-------------------|------------------|--------------------------|
-| Steampunk Airship | Kitsune Spirit   | *Your creation here*     |
+<p align="center">
+  <img src="samples/cyberpunk_samurai.jpg" width="250" alt="Cyberpunk Samurai">
+  <img src="samples/floating_library.jpg" width="250" alt="Floating Library">
+  <img src="samples/bioluminescent_jellyfish.jpg" width="250" alt="Bioluminescent Jellyfish">
+</p>
+<p align="center">
+  <img src="samples/steampunk_airship.jpg" width="250" alt="Steampunk Airship">
+  <img src="samples/kitsune_spirit.jpg" width="250" alt="Kitsune Spirit">
+</p>
+
+*All samples generated with 28 steps + 4x Real-ESRGAN upscaling (4096x4096 original resolution)*
 
 ---
 
@@ -38,7 +46,7 @@ Generate stunning AI images in seconds, upscale to 4096x4096 for print-quality o
 1. Clone this repo:
    ```bash
    git clone https://github.com/juxstin1/FLUX2-RTX.git
-   cd flux2-klein-local
+   cd FLUX2-RTX
    ```
 
 2. Run the installer:
@@ -55,7 +63,7 @@ Generate stunning AI images in seconds, upscale to 4096x4096 for print-quality o
 ```bash
 # Clone repo
 git clone https://github.com/juxstin1/FLUX2-RTX.git
-cd flux2-klein-local
+cd FLUX2-RTX
 
 # Create virtual environment
 python -m venv venv
